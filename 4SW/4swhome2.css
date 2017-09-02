@@ -1,0 +1,66 @@
+body{
+	   background-image: url('https://348d8084e1351a4e4473bb209583f53930d6bfef-www.googledrive.com/host/0Bwoq0Tly27AjflV5bzlFc1NmcmwyaUZIVFA2Z0FRa0NkeTB0U0hjWlltNXdXRVlJSkZIbEU/4SW.JPG');  // ('https://348d8084e1351a4e4473bb209583f53930d6bfef-www.googledrive.com/host/0Bwoq0Tly27AjflV5bzlFc1NmcmwyaUZIVFA2Z0FRa0NkeTB0U0hjWlltNXdXRVlJSkZIbEU/shirt%204sw2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+background-size: 120vh;
+//color:blue;
+}
+
+#blocka{
+color:yellow;
+background-color:yellow;
+
+}
+
+#blocklinkclick{
+
+}
+
+.blocks{
+background-color:rgba(0, 0, 0, 0.5);
+
+height:100px;
+margin-top:5px;
+margin-right:5px;
+font-color:#f7fafa;
+font-size:14px;
+text-shadow: 2px 1px 3px black
+
+}
+
+
+#blocktom{
+
+}
+
+#blockfractions{
+
+}
+
+#blocklinkchem2{
+
+}
+
+#blocklinkchem3{
+
+}
+#blocklinkchem4{
+
+}
+#blockclick{
+
+}
+
+
+.blockfont{
+color:#f7fafa;
+font-size:14px;
+text-align:center;
+}
+
+
+.highlighted{
+color:green;
+background-color:green;
+}
